@@ -4,9 +4,9 @@ Collaborative Project with Department of Animal Sciences and Industry, Kansas St
 
 ### 📌 Project Updates
 
- -**🗓️ 4/7/2026** - We finally got the initial dataset! Planning to sit down with Guilherme soon to discuss the data and map out exactly what our next steps are.
+- **🗓️ 4/7/2026** - We finally got the initial dataset! Planning to sit down with Guilherme soon to discuss the data and map out exactly what our next steps are.
 
- -**🗓️ 2/5/2026** - Had a great Zoom meeting together to dive into the details of the data and the predictive methods we're going to use!
+- **🗓️ 2/5/2026** - Had a great Zoom meeting together to dive into the details of the data and the predictive methods we're going to use!
 
 - **🗓️ 1/15/2026** - Happy New Year! We’ve scheduled a meeting with Prof. Megan and her group next week. Excited to see how things move forward!
 
